@@ -1,8 +1,99 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="myred">#eb4f38</color>
-    <color name="darkgray">#cccc</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_background">#EEEEEE</color>
+    <color name="gray_dark">#FFb3b3b3</color>
+    <color name="gray_background">#F8F8F8</color>
+    <color name="gray_light">#888888</color>
+    <color name="gray_light_2">#F4F4F4</color>
+    <color name="black">#FF000000</color>
+    <color name="transparent_half">#77FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_ten">#D7000000</color>
+    <color name="transparent_appitem">#10FFFFFF</color>
+    <color name="transparent_appmarket_recitem">#20FFFFFF</color>
+    <color name="transparent_appmarket_search">#20FFFFFF</color>
+
+
+
+    <color name="orange">#e15f00</color>
+    <color name="orange_background">#fff8ed</color>
+    <color name="orange_bg">#ff6900</color>
+    <color name="green">#97C535</color>
+    <color name="half_green">#52f59a</color>
+    <color name="red">#FFFF0000</color>
+    <color name="blue">#329CC8</color>
+
+
+    <!-- progress bar -->
+    <color name="bg_progress_light">#ffe28c</color>
+    <color name="bg_progress_dark">@color/orange</color>
+
+    <!-- drawer item -->
+    <color name="drawer_item_normal">#FAFAFA</color>
+    <color name="drawer_item_selected">#E2E2E2</color>
+
+    <!-- actionbar tab -->
+    <color name="d_actionbar_tab_bg">#4B4B4B</color>
+    <drawable name="toast_bg">#4B4B4B</drawable>
+    <drawable name="transparent">#00000000</drawable>
+
+    <color name="lightyellow">#FFFFE0</color><!--亮黄色 -->
+    <color name="yellow">#FFFF00</color><!--黄色 -->
+    <color name="dark_yellow">#f5f052</color>
+
+    <color name="feedback_bg">#d2d2d2</color>
+    <color name="feedback_tag_select">#ff6900</color>
+    <color name="feedback_tag_normal">#f4f4f4</color>
+    <color name="feedback_tag_bg">#ffffffff</color>
+    <color name="feedback_number_hint">#b5b5b5</color>
+    <color name="feedback_tips">#898989</color>
+    <color name="amaya_submit_normal">#000000</color>
+    <color name="amaya_submit_focus">#ffd9402f</color>
+    <drawable name="amaya_divider_comment">#d9d9d9</drawable>
+
+    <!-- text colors -->
+    <!-- 87% of #000000: text -->
+    <color name="text_primary">#DF000000</color>
+    <!-- 54% of #000000: secondary text / icons -->
+    <color name="text_secondary">#8A000000</color>
+    <!-- 26% of #000000: hint text -->
+    <color name="text_hint">#43000000</color>
+    <!-- 12% of #000000: dividers text -->
+    <color name="divider">#1F000000</color>
+
+
+    <color name="actionbar_color">#0072c6</color>
+    <color name="half_transparent">#aa000000</color>
+
+    <color name="divider_color">#11000000</color>
+    <color name="titlebar_divider">#E4E4E4</color>
+    <color name="gray_text_light">#9B9B9B</color>
+    <color name="gray_title">#666</color>
+
+    <color name="background_color">#FF5E5B94</color>
+    <color name="tabbar_main">#FF4AD5BC</color>
+    <color name="tabbar_secondly">#FF54B4B4</color>
+
+
+    <!-- 以下为notification消息中心的配色 -->
+    <color name="color_text">#8F8F8F</color>
+    <color name="color_devider">#3fcccccc</color>
+    <color name="color_text_selected">#4682B4</color>
     <color name="color_white">#ffffff</color>
-    <color name="btn_press_color">#5677fc</color>
-    <color name="btn_pressed_color">#3ca0ec</color>
+    <color name="color_dark_black">#373737</color>
+    <color name="color_black">#0f0f0f</color>
+    <color name="gray_text_title">#AEAEAE</color>
+    <color name="gray_small_title">#666</color>
+    <color name="color_noti_devider">#e4e4e4</color>
+    <color name="color_key_pressed">#242526</color>
+    <color name="blue_state">#3DC6B6</color>
+
+    <color name="header_bg_common">#323a45</color>
+    <color name="title_txt_color">#f1f1f3</color>
+    <color name="circle_color">#323a45</color>
+    <color name="ring_color">#14b9d6</color>
+
+    <color name="darker_gray">#aaa</color>
+
 </resources>
